@@ -1,8 +1,9 @@
 streamlit
 google-generativeai
 python-dotenv
-pypdf2
+pypdf
 python-docx
 pandas
 numpy
+
 
